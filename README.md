@@ -3,9 +3,9 @@
 * 以線上商城為例：賣家可管理產品庫存及新增修改商品
 
 ##  Model
-* private String name&emsp;&nbsp;//產品名稱
-* private int price&emsp;&emsp;&emsp;//產品價格
-* public int stock&emsp;&emsp;&emsp;//產品庫存   
+* private String name&emsp;&emsp;&emsp;&nbsp;//產品名稱
+* private int price&emsp;&emsp;&emsp;&emsp;&emsp;//產品價格
+* public int stock &emsp;&emsp;&emsp;&emsp;&emsp;//產品庫存   
 * private String description &nbsp;//產品描述 
 
 ## Service
