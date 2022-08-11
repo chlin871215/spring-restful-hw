@@ -101,13 +101,13 @@
 					],
 					"port": "8080",
 					"path": [
-						"shop",
+						"shopping",
 						":name"
 					],
 					"variable": [
 						{
 							"key": "name",
-							"value": "socks"
+							"value": "Teva"
 						}
 					]
 				}
@@ -127,13 +127,13 @@
 					],
 					"port": "8080",
 					"path": [
-						"shop",
+						"shopping",
 						":name"
 					],
 					"variable": [
 						{
 							"key": "name",
-							"value": "shoes"
+							"value": "Teva"
 						}
 					]
 				}
